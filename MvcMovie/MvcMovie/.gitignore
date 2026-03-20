@@ -1,0 +1,21 @@
+﻿## Build results
+bin/
+obj/
+
+## Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## ASP.NET Core
+appsettings.Development.json
+
+## Rider / VS Code optional
+.idea/
+.vscode/
+
+## OS files
+.DS_Store
+Thumbs.db
